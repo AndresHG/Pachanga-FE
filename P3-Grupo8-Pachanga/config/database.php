@@ -10,10 +10,10 @@
 // );
 
 return array(
-  "DB_SERVER" => "mysql.hostinger.es",
-  "DB_NAME" => "u470487585_pach",
-  "DB_USER" => "u470487585_root",
-  "DB_PASS" => "56gUIgXF4cSj",
+  "DB_SERVER" => "",
+  "DB_NAME" => "",
+  "DB_USER" => "",
+  "DB_PASS" => "",
   "DB_DRIVER" => "mysql",
   "DB_CHARSET" => "utf8_bin",
 );
